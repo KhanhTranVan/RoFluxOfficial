@@ -335,13 +335,13 @@ concacsss = Adel and "Adel" or "YMF"
 local A =
     z:MakeWindow(
     {
-        Name = "Ro-Flux Hub | Premium ",
+        Name = "Your Mom Fat",
         IntroEnabled = false,
-        IntroText = "Ro-Flux Library",
+        IntroText = "YourMomFat Library",
         IntroIcon = "rbxassetid://13779309461",
         HidePremium = false,
         SaveConfig = false,
-        ConfigFolder = "Ro-Flux Hub"
+        ConfigFolder = "YourMomFat Hub"
     }
 )
 local B = A:MakeTab({Name = "Main", Icon = "rbxassetid://4483345998", PremiumOnly = false})
