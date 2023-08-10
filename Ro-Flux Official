@@ -22,6 +22,17 @@ local Tab = Window:MakeTab({
 	PremiumOnly = false
 })
 
+function GetKey()
+	https://link-center.net/923150/yourmomfat-hub
+end
+
+Tab:AddButton({
+	Name = "Get Key",
+	Callback = function()
+		GetKey()
+  	end    
+})
+
 Tab:AddTextbox({
 	Name = "Enter Key",
 	Default = "",
