@@ -1,6 +1,6 @@
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
 local Player = game.Players.LocalPlayer
-local Window = OrionLib:MakeWindow({Name = "YourMomFat Key System",IntroTest = "YourMomFat Library", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest"})
+local Window = OrionLib:MakeWindow({Name = "YourMomFat | Key System",IntroTest = "YourMomFat Library", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest"})
 
 OrionLib:MakeNotification({
 	Name = "YourMomFat Notification",
@@ -13,7 +13,7 @@ _G.Key = "abf7a94acc2525d43e2fc7224622e35968dbfa50"
 _G.KeyImput = "string"
 
 function MakeScriptHub()
-	loadstring(game:HttpGet(('https://raw.githubusercontent.com/KhanhTranVan/RoFluxOfficial/main/Ro-Flux%20Official')))()	
+	loadstring(game:HttpGet(('https://raw.githubusercontent.com/KhanhTranVan/YourMomFatHub/main/YourMomFat%20Hub?token=GHSAT0AAAAAACF5VRS6XKRZCB4JKPX5ROOAZGUI7SA')))()	
 end
 
 local Tab = Window:MakeTab({
