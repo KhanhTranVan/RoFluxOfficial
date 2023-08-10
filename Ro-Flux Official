@@ -9,7 +9,7 @@ OrionLib:MakeNotification({
 	Time = 5
 })
 
-_G.Key = "MeMayBeo"
+_G.Key = "abf7a94acc2525d43e2fc7224622e35968dbfa50"
 _G.KeyImput = "string"
 
 function MakeScriptHub()
