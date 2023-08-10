@@ -1,3 +1,9 @@
+local support = {"Fluxus", "Electron"}
+
+if identifyexecutor() == support then
+print("đúng exploit r chạy thôi uwu")
+end
+
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
 local Player = game.Players.LocalPlayer
 local Window = OrionLib:MakeWindow({Name = "YourMomFat Key System",IntroTest = "YourMomFat Library", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest"})
@@ -23,7 +29,7 @@ local Tab = Window:MakeTab({
 })
 
 function GetKey()
-	https://link-hub.net/923150/yourmomfat-hub1
+	setclipboard(https://link-hub.net/923150/yourmomfat-hub1)
 end
 
 Tab:AddButton({
